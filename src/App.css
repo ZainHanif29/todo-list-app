@@ -1,0 +1,25 @@
+main{
+    display: flex;
+    height: 100vh;
+    justify-content: center;
+    align-items: center;
+}
+main section{
+    padding: 1rem;
+}
+
+section h1{
+    display: flex;
+    justify-content: center;
+    font-size: larger;
+}
+
+table {
+    width: 100%;
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+th , td{
+    border: 1px solid black;
+    padding: 10px;
+}
